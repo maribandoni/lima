@@ -1,0 +1,12 @@
+.apresentacao{
+    width: 97.5vw;
+    height: 98vh;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 800%;
+    font-style: oblique;
+    color: rgb(2, 38, 238);
+    font-family: 'Courier New', Courier, monospace;
+}

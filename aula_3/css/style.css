@@ -1,0 +1,9 @@
+body{
+    width: 98.5vw;
+    height: 900px;
+    border: black;
+    border-style: solid;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
